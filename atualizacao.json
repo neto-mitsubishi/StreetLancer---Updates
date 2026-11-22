@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20.0",
+  "versionCode": 25,
+  "versionName": "0.25.0",
   "apk": "https://github.com/neto-mitsubishi/StreetLancer---Updates/releases/latest/download/StreetLancer.apk",
-  "notas": "Galeria própria para escolher a foto do carro e as logos."
+  "notas": "mais layouts e varias outras modificacoes."
 }
