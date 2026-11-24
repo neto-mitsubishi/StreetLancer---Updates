@@ -1,6 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.25.0",
+  "versionCode": 31,
+  "versionName": "0.31.0",
   "apk": "https://github.com/neto-mitsubishi/StreetLancer---Updates/releases/latest/download/StreetLancer.apk",
-  "notas": "mais layouts e varias outras modificacoes."
+  "notas": "Adicao aba Youtube, Neon e efeitos."
 }
+
