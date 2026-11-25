@@ -1,0 +1,14 @@
+{
+  "versao": 2,
+  "carros": [
+    {
+      "id": "teste-carro-teste",
+      "marca": "Teste",
+      "modelo": "Carro de teste",
+      "anos": "Apague quando tiver os carros reais",
+      "carroceria": "Sedã",
+      "imagem": "teste/carro-teste.png",
+      "troca_cor": true
+    }
+  ]
+}

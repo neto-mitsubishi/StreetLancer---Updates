@@ -1,0 +1,85 @@
+STREETLANCER - GARAGEM (CATÁLOGO DE CARROS BRASILEIROS)
+========================================================
+
+Como funciona no app
+--------------------
+Ajustes > Meu carro > "Garagem StreetLancer": o cliente escolhe a MARCA, o MODELO,
+o ANO/GERAÇÃO e a COR. O carro aparece na tela inicial no lugar da foto, com sombra,
+faróis, neon e contorno funcionando normalmente.
+
+O app baixa tudo desta pasta no GitHub:
+  https://github.com/neto-mitsubishi/StreetLancer---Updates/tree/main/garagem
+Basta subir esta pasta "garagem" no repositório (do mesmo jeito que o atualizacao.json).
+Sempre que você adicionar carros, os clientes já veem na próxima vez que abrirem a Garagem
+(não precisa atualizar o app).
+
+1) PEDIDO PARA A IA DE IMAGENS (copie e troque só o que está entre [ ])
+-----------------------------------------------------------------------
+Foto realista de estúdio de um [Volkswagen Gol G6 2014], versão original de fábrica.
+Vista lateral-frontal em 3/4, frente do carro virada para a ESQUERDA, câmera na altura
+dos faróis, carro inteiro dentro da imagem com pequena margem.
+Pintura VERDE LIMÃO bem saturada e uniforme (verde puro, como #22C022), brilhante,
+em toda a lataria. Vidros escuros, rodas prata ou grafite, pneus pretos, faróis e
+lanternas nas cores normais. Nada verde além da lataria.
+Fundo totalmente transparente (PNG). Se não for possível, fundo branco liso.
+Sem pessoas, sem texto, sem marca d'água, sem placa (ou placa lisa), sem logotipo da marca.
+Formato horizontal 16:9, alta resolução.
+
+Por que verde? O app troca o verde pela cor que o cliente escolher (branco, prata, preto,
+vermelho, azul... 13 cores). Assim uma imagem só vale para todas as cores.
+
+Dicas:
+- Use SEMPRE o mesmo pedido, mudando só o modelo e o ano, para o catálogo ficar padronizado.
+- Se a IA não entregar fundo transparente, abra a imagem no StreetLancer (Ajustes > Meu carro >
+  Remover fundo) ou em um site de remoção de fundo e salve como PNG.
+- Sem logotipo/emblema da marca na imagem (direitos de marca).
+- Confira os termos de uso comercial da IA usada antes de vender o app com essas imagens.
+- Imagem que não for verde (ex.: foto real já recortada): use "troca_cor": false e "cor": "Prata"
+  (ou a cor real). Aí o cliente só vê essa cor.
+- Quer imagens prontas por cor em vez da troca? Use "imagens_por_cor" (veja o exemplo abaixo).
+
+2) ESTRUTURA DA PASTA
+---------------------
+garagem/
+   catalogo.json
+   chevrolet/
+      onix-2020-2024.png
+   volkswagen/
+      gol-g6-2013-2016.png
+   ...
+Nomes de arquivo: minúsculas, sem acento e sem espaço (use hífen). PNG até ~1600 px de largura.
+
+3) CATALOGO.JSON
+----------------
+Cada carro (uma geração de um modelo) é um bloco { } dentro de "carros", separados por vírgula:
+
+    {
+      "id": "volkswagen-gol-g6",          <- nome único
+      "marca": "Volkswagen",              <- aparece na 1ª tela (marcas)
+      "modelo": "Gol",                    <- 2ª tela (modelos)
+      "anos": "G6 (2013 a 2016)",         <- 3ª tela (ano/geração)
+      "carroceria": "Hatch",              <- Hatch, Sedã, SUV, Picape...
+      "imagem": "volkswagen/gol-g6-2013-2016.png",
+      "troca_cor": true                   <- true = imagem verde (o app troca a cor)
+    }
+
+Exemplo com imagens prontas por cor (opcional):
+    {
+      "id": "fiat-uno-2011-2021",
+      "marca": "Fiat", "modelo": "Uno", "anos": "2011 a 2021", "carroceria": "Hatch",
+      "imagem": "fiat/uno-branco.png",
+      "troca_cor": false, "cor": "Branco",
+      "imagens_por_cor": { "Branco": "fiat/uno-branco.png", "Vermelho": "fiat/uno-vermelho.png" }
+    }
+
+Cores que o app conhece: Branco, Prata, Cinza, Preto, Vermelho, Vinho, Azul, Azul claro,
+Verde, Amarelo, Laranja, Marrom, Bege.
+
+Importante: a última linha de cada bloco NÃO leva vírgula, e o último bloco também não.
+Antes de subir, cole o arquivo em https://jsonlint.com para conferir se está certo.
+
+4) EXEMPLO INCLUÍDO
+-------------------
+Este kit já vem com um "Carro de teste" (desenho simples em verde), para você subir e
+testar a Garagem (inclusive a troca de cor) na hora. Quando tiver os carros reais, apague
+o bloco do carro de teste no catalogo.json e a pasta "teste".
