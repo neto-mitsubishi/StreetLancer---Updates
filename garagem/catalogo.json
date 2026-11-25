@@ -1,6 +1,15 @@
 {
-  "versao": 3,
+  "versao": 4,
   "carros": [
+    {
+      "id": "chevrolet-astra-2003",
+      "marca": "Chevrolet",
+      "modelo": "Astra Sedan",
+      "anos": "2003 a 2011",
+      "carroceria": "Sedã",
+      "imagem": "imagens/chevrolet-astra-2003.png",
+      "troca_cor": true
+    },
     {
       "id": "chevrolet-cruze-2017",
       "marca": "Chevrolet",
@@ -35,6 +44,15 @@
       "anos": "2017 a 2020",
       "carroceria": "SUV",
       "imagem": "imagens/chevrolet-tracker-2017.png",
+      "troca_cor": true
+    },
+    {
+      "id": "chevrolet-vectra-1997",
+      "marca": "Chevrolet",
+      "modelo": "Vectra",
+      "anos": "1997 a 2005",
+      "carroceria": "Sedã",
+      "imagem": "imagens/chevrolet-vectra-1997.png",
       "troca_cor": true
     },
     {
@@ -245,6 +263,15 @@
       "troca_cor": true
     },
     {
+      "id": "nissan-frontier-2008",
+      "marca": "Nissan",
+      "modelo": "Frontier",
+      "anos": "2008 a 2016",
+      "carroceria": "Picape",
+      "imagem": "imagens/nissan-frontier-2008.png",
+      "troca_cor": true
+    },
+    {
       "id": "nissan-frontier-2017",
       "marca": "Nissan",
       "modelo": "Frontier",
@@ -368,6 +395,15 @@
       "anos": "2000 a 2011",
       "carroceria": "Sedã",
       "imagem": "imagens/volkswagen-bora-2000.png",
+      "troca_cor": true
+    },
+    {
+      "id": "volkswagen-gol-g5",
+      "marca": "Volkswagen",
+      "modelo": "Gol",
+      "anos": "G5 (2009 a 2012)",
+      "carroceria": "Hatch",
+      "imagem": "imagens/volkswagen-gol-g5.png",
       "troca_cor": true
     },
     {
