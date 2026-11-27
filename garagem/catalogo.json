@@ -1,1076 +1,1094 @@
 {
-  "versao": 6,
-  "carros": [
-    {
-      "id": "audi-a3-2014",
-      "marca": "Audi",
-      "modelo": "A3 Sedan",
-      "anos": "2014 a 2020",
-      "carroceria": "Sedã",
-      "imagem": "imagens/audi-a3-2014.png",
-      "troca_cor": true
-    },
-    {
-      "id": "audi-r8-2015",
-      "marca": "Audi",
-      "modelo": "R8",
-      "anos": "2015 a 2024",
-      "carroceria": "Cupê",
-      "imagem": "imagens/audi-r8-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "bmw-m3-e46-2001",
-      "marca": "BMW",
-      "modelo": "M3",
-      "anos": "2001 a 2006",
-      "carroceria": "Cupê",
-      "imagem": "imagens/bmw-m3-e46-2001.png",
-      "troca_cor": true
-    },
-    {
-      "id": "bmw-320i-2019",
-      "marca": "BMW",
-      "modelo": "Série 3",
-      "anos": "2019 a 2025",
-      "carroceria": "Sedã",
-      "imagem": "imagens/bmw-320i-2019.png",
-      "troca_cor": true
-    },
-    {
-      "id": "bmw-x1-2016",
-      "marca": "BMW",
-      "modelo": "X1",
-      "anos": "2016 a 2022",
-      "carroceria": "SUV",
-      "imagem": "imagens/bmw-x1-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-astra-2003",
-      "marca": "Chevrolet",
-      "modelo": "Astra Sedan",
-      "anos": "2003 a 2011",
-      "carroceria": "Sedã",
-      "imagem": "imagens/chevrolet-astra-2003.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-camaro-2016",
-      "marca": "Chevrolet",
-      "modelo": "Camaro",
-      "anos": "2016 a 2024",
-      "carroceria": "Cupê",
-      "imagem": "imagens/chevrolet-camaro-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-corvette-2020",
-      "marca": "Chevrolet",
-      "modelo": "Corvette",
-      "anos": "2020 a 2025",
-      "carroceria": "Cupê",
-      "imagem": "imagens/chevrolet-corvette-2020.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-cruze-2012",
-      "marca": "Chevrolet",
-      "modelo": "Cruze",
-      "anos": "2012 a 2016",
-      "carroceria": "Sedã",
-      "imagem": "imagens/chevrolet-cruze-2012.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-cruze-2017",
-      "marca": "Chevrolet",
-      "modelo": "Cruze",
-      "anos": "2017 a 2024",
-      "carroceria": "Sedã",
-      "imagem": "imagens/chevrolet-cruze-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-equinox-2018",
-      "marca": "Chevrolet",
-      "modelo": "Equinox",
-      "anos": "2018 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/chevrolet-equinox-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-onix-2020",
-      "marca": "Chevrolet",
-      "modelo": "Onix",
-      "anos": "2020 a 2025",
-      "carroceria": "Hatch",
-      "imagem": "imagens/chevrolet-onix-2020.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-s10-2012",
-      "marca": "Chevrolet",
-      "modelo": "S10",
-      "anos": "2012 a 2024",
-      "carroceria": "Picape",
-      "imagem": "imagens/chevrolet-s10-2012.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-silverado-2019",
-      "marca": "Chevrolet",
-      "modelo": "Silverado",
-      "anos": "2019 a 2025",
-      "carroceria": "Picape",
-      "imagem": "imagens/chevrolet-silverado-2019.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-tracker-2017",
-      "marca": "Chevrolet",
-      "modelo": "Tracker",
-      "anos": "2017 a 2020",
-      "carroceria": "SUV",
-      "imagem": "imagens/chevrolet-tracker-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "chevrolet-vectra-1997",
-      "marca": "Chevrolet",
-      "modelo": "Vectra",
-      "anos": "1997 a 2005",
-      "carroceria": "Sedã",
-      "imagem": "imagens/chevrolet-vectra-1997.png",
-      "troca_cor": true
-    },
-    {
-      "id": "citroen-c4-cactus-2019",
-      "marca": "Citroën",
-      "modelo": "C4 Cactus",
-      "anos": "2019 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/citroen-c4-cactus-2019.png",
-      "troca_cor": true
-    },
-    {
-      "id": "dodge-challenger-2015",
-      "marca": "Dodge",
-      "modelo": "Challenger",
-      "anos": "2015 a 2023",
-      "carroceria": "Cupê",
-      "imagem": "imagens/dodge-challenger-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "fiat-500-2009",
-      "marca": "Fiat",
-      "modelo": "500",
-      "anos": "2009 a 2020",
-      "carroceria": "Hatch",
-      "imagem": "imagens/fiat-500-2009.png",
-      "troca_cor": true
-    },
-    {
-      "id": "fiat-argo-2018",
-      "marca": "Fiat",
-      "modelo": "Argo",
-      "anos": "2018 a 2025",
-      "carroceria": "Hatch",
-      "imagem": "imagens/fiat-argo-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "fiat-cronos-2018",
-      "marca": "Fiat",
-      "modelo": "Cronos",
-      "anos": "2018 a 2025",
-      "carroceria": "Sedã",
-      "imagem": "imagens/fiat-cronos-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "fiat-pulse-2022",
-      "marca": "Fiat",
-      "modelo": "Pulse",
-      "anos": "2022 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/fiat-pulse-2022.png",
-      "troca_cor": true
-    },
-    {
-      "id": "fiat-strada-2021",
-      "marca": "Fiat",
-      "modelo": "Strada",
-      "anos": "2021 a 2025",
-      "carroceria": "Picape",
-      "imagem": "imagens/fiat-strada-2021.png",
-      "troca_cor": true
-    },
-    {
-      "id": "fiat-toro-2017",
-      "marca": "Fiat",
-      "modelo": "Toro",
-      "anos": "2017 a 2025",
-      "carroceria": "Picape",
-      "imagem": "imagens/fiat-toro-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "fiat-uno-2011",
-      "marca": "Fiat",
-      "modelo": "Uno",
-      "anos": "2011 a 2021",
-      "carroceria": "Hatch",
-      "imagem": "imagens/fiat-uno-2011.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ford-ecosport-2013",
-      "marca": "Ford",
-      "modelo": "EcoSport",
-      "anos": "2013 a 2021",
-      "carroceria": "SUV",
-      "imagem": "imagens/ford-ecosport-2013.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ford-f150-2015",
-      "marca": "Ford",
-      "modelo": "F-150",
-      "anos": "2015 a 2020",
-      "carroceria": "Picape",
-      "imagem": "imagens/ford-f150-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ford-fiesta-2011",
-      "marca": "Ford",
-      "modelo": "Fiesta",
-      "anos": "2011 a 2019",
-      "carroceria": "Hatch",
-      "imagem": "imagens/ford-fiesta-2011.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ford-focus-2014",
-      "marca": "Ford",
-      "modelo": "Focus",
-      "anos": "2014 a 2019",
-      "carroceria": "Hatch",
-      "imagem": "imagens/ford-focus-2014.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ford-fusion-2013",
-      "marca": "Ford",
-      "modelo": "Fusion",
-      "anos": "2013 a 2020",
-      "carroceria": "Sedã",
-      "imagem": "imagens/ford-fusion-2013.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ford-ka-2015",
-      "marca": "Ford",
-      "modelo": "Ka",
-      "anos": "2015 a 2021",
-      "carroceria": "Hatch",
-      "imagem": "imagens/ford-ka-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ford-mustang-2015",
-      "marca": "Ford",
-      "modelo": "Mustang",
-      "anos": "2015 a 2023",
-      "carroceria": "Cupê",
-      "imagem": "imagens/ford-mustang-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ford-ranger-2013",
-      "marca": "Ford",
-      "modelo": "Ranger",
-      "anos": "2013 a 2025",
-      "carroceria": "Picape",
-      "imagem": "imagens/ford-ranger-2013.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-accord-2008",
-      "marca": "Honda",
-      "modelo": "Accord",
-      "anos": "2008 a 2012",
-      "carroceria": "Sedã",
-      "imagem": "imagens/honda-accord-2008.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-crv-2017",
-      "marca": "Honda",
-      "modelo": "CR-V",
-      "anos": "2017 a 2022",
-      "carroceria": "SUV",
-      "imagem": "imagens/honda-crv-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-city-2021",
-      "marca": "Honda",
-      "modelo": "City",
-      "anos": "2021 a 2025",
-      "carroceria": "Sedã",
-      "imagem": "imagens/honda-city-2021.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-civic-2012",
-      "marca": "Honda",
-      "modelo": "Civic",
-      "anos": "2012 a 2016",
-      "carroceria": "Sedã",
-      "imagem": "imagens/honda-civic-2012.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-civic-2017",
-      "marca": "Honda",
-      "modelo": "Civic",
-      "anos": "2017 a 2021",
-      "carroceria": "Sedã",
-      "imagem": "imagens/honda-civic-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-civic-2022",
-      "marca": "Honda",
-      "modelo": "Civic",
-      "anos": "2022 a 2025",
-      "carroceria": "Sedã",
-      "imagem": "imagens/honda-civic-2022.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-civic-type-r-2017",
-      "marca": "Honda",
-      "modelo": "Civic Type R",
-      "anos": "2017 a 2021",
-      "carroceria": "Hatch",
-      "imagem": "imagens/honda-civic-type-r-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-fit-2015",
-      "marca": "Honda",
-      "modelo": "Fit",
-      "anos": "2015 a 2021",
-      "carroceria": "Hatch",
-      "imagem": "imagens/honda-fit-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "honda-hr-v-2016",
-      "marca": "Honda",
-      "modelo": "HR-V",
-      "anos": "2016 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/honda-hr-v-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "hyundai-creta-2017",
-      "marca": "Hyundai",
-      "modelo": "Creta",
-      "anos": "2017 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/hyundai-creta-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "hyundai-tucson-2010",
-      "marca": "Hyundai",
-      "modelo": "Tucson",
-      "anos": "2010 a 2022",
-      "carroceria": "SUV",
-      "imagem": "imagens/hyundai-tucson-2010.png",
-      "troca_cor": true
-    },
-    {
-      "id": "hyundai-veloster-2012",
-      "marca": "Hyundai",
-      "modelo": "Veloster",
-      "anos": "2012 a 2017",
-      "carroceria": "Hatch",
-      "imagem": "imagens/hyundai-veloster-2012.png",
-      "troca_cor": true
-    },
-    {
-      "id": "jeep-compass-2017",
-      "marca": "Jeep",
-      "modelo": "Compass",
-      "anos": "2017 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/jeep-compass-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "jeep-renegade-2016",
-      "marca": "Jeep",
-      "modelo": "Renegade",
-      "anos": "2016 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/jeep-renegade-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "jeep-wrangler-2018",
-      "marca": "Jeep",
-      "modelo": "Wrangler",
-      "anos": "2018 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/jeep-wrangler-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "kia-soul-2010",
-      "marca": "Kia",
-      "modelo": "Soul",
-      "anos": "2010 a 2013",
-      "carroceria": "Hatch",
-      "imagem": "imagens/kia-soul-2010.png",
-      "troca_cor": true
-    },
-    {
-      "id": "kia-sportage-2011",
-      "marca": "Kia",
-      "modelo": "Sportage",
-      "anos": "2011 a 2016",
-      "carroceria": "SUV",
-      "imagem": "imagens/kia-sportage-2011.png",
-      "troca_cor": true
-    },
-    {
-      "id": "kia-sportage-2017",
-      "marca": "Kia",
-      "modelo": "Sportage",
-      "anos": "2017 a 2021",
-      "carroceria": "SUV",
-      "imagem": "imagens/kia-sportage-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "kia-stinger-2018",
-      "marca": "Kia",
-      "modelo": "Stinger",
-      "anos": "2018 a 2023",
-      "carroceria": "Sedã",
-      "imagem": "imagens/kia-stinger-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mazda-mx5-2016",
-      "marca": "Mazda",
-      "modelo": "MX-5",
-      "anos": "2016 a 2025",
-      "carroceria": "Conversível",
-      "imagem": "imagens/mazda-mx5-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mazda-rx7-1993",
-      "marca": "Mazda",
-      "modelo": "RX-7",
-      "anos": "1993 a 2002",
-      "carroceria": "Cupê",
-      "imagem": "imagens/mazda-rx7-1993.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mercedes-c-class-2015",
-      "marca": "Mercedes-Benz",
-      "modelo": "Classe C",
-      "anos": "2015 a 2021",
-      "carroceria": "Sedã",
-      "imagem": "imagens/mercedes-c-class-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mercedes-gla-2015",
-      "marca": "Mercedes-Benz",
-      "modelo": "GLA",
-      "anos": "2015 a 2020",
-      "carroceria": "SUV",
-      "imagem": "imagens/mercedes-gla-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-3000gt-1994",
-      "marca": "Mitsubishi",
-      "modelo": "3000GT",
-      "anos": "1994 a 1999",
-      "carroceria": "Cupê",
-      "imagem": "imagens/mitsubishi-3000gt-1994.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-asx-2011",
-      "marca": "Mitsubishi",
-      "modelo": "ASX",
-      "anos": "2011 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/mitsubishi-asx-2011.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-eclipse-1995",
-      "marca": "Mitsubishi",
-      "modelo": "Eclipse",
-      "anos": "1995 a 1999",
-      "carroceria": "Cupê",
-      "imagem": "imagens/mitsubishi-eclipse-1995.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-eclipse-cross-2018",
-      "marca": "Mitsubishi",
-      "modelo": "Eclipse Cross",
-      "anos": "2018 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/mitsubishi-eclipse-cross-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-l200-triton-2008",
-      "marca": "Mitsubishi",
-      "modelo": "L200 Triton",
-      "anos": "2008 a 2025",
-      "carroceria": "Picape",
-      "imagem": "imagens/mitsubishi-l200-triton-2008.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-lancer-2011",
-      "marca": "Mitsubishi",
-      "modelo": "Lancer",
-      "anos": "2011 a 2019",
-      "carroceria": "Sedã",
-      "imagem": "imagens/mitsubishi-lancer-2011.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-lancer-evo-ix-2005",
-      "marca": "Mitsubishi",
-      "modelo": "Lancer Evolution IX",
-      "anos": "2005 a 2007",
-      "carroceria": "Sedã",
-      "imagem": "imagens/mitsubishi-lancer-evo-ix-2005.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-lancer-evo-x-2008",
-      "marca": "Mitsubishi",
-      "modelo": "Lancer Evolution X",
-      "anos": "2008 a 2016",
-      "carroceria": "Sedã",
-      "imagem": "imagens/mitsubishi-lancer-evo-x-2008.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-lancer-sportback-ralliart",
-      "marca": "Mitsubishi",
-      "modelo": "Lancer Sportback Ralliart",
-      "anos": "2010 a 2017",
-      "carroceria": "Hatch",
-      "imagem": "imagens/mitsubishi-lancer-sportback-ralliart.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-outlander-2014",
-      "marca": "Mitsubishi",
-      "modelo": "Outlander",
-      "anos": "2014 a 2021",
-      "carroceria": "SUV",
-      "imagem": "imagens/mitsubishi-outlander-2014.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-pajero-full-2007",
-      "marca": "Mitsubishi",
-      "modelo": "Pajero Full",
-      "anos": "2007 a 2020",
-      "carroceria": "SUV",
-      "imagem": "imagens/mitsubishi-pajero-full-2007.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-pajero-sport-2016",
-      "marca": "Mitsubishi",
-      "modelo": "Pajero Sport",
-      "anos": "2016 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/mitsubishi-pajero-sport-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "mitsubishi-pajero-tr4-2003",
-      "marca": "Mitsubishi",
-      "modelo": "Pajero TR4",
-      "anos": "2003 a 2015",
-      "carroceria": "SUV",
-      "imagem": "imagens/mitsubishi-pajero-tr4-2003.png",
-      "troca_cor": true
-    },
-    {
-      "id": "nissan-350z-2003",
-      "marca": "Nissan",
-      "modelo": "350Z",
-      "anos": "2003 a 2009",
-      "carroceria": "Cupê",
-      "imagem": "imagens/nissan-350z-2003.png",
-      "troca_cor": true
-    },
-    {
-      "id": "nissan-frontier-2008",
-      "marca": "Nissan",
-      "modelo": "Frontier",
-      "anos": "2008 a 2016",
-      "carroceria": "Picape",
-      "imagem": "imagens/nissan-frontier-2008.png",
-      "troca_cor": true
-    },
-    {
-      "id": "nissan-frontier-2017",
-      "marca": "Nissan",
-      "modelo": "Frontier",
-      "anos": "2017 a 2025",
-      "carroceria": "Picape",
-      "imagem": "imagens/nissan-frontier-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "nissan-gtr-2009",
-      "marca": "Nissan",
-      "modelo": "GT-R",
-      "anos": "2009 a 2024",
-      "carroceria": "Cupê",
-      "imagem": "imagens/nissan-gtr-2009.png",
-      "troca_cor": true
-    },
-    {
-      "id": "nissan-kicks-2017",
-      "marca": "Nissan",
-      "modelo": "Kicks",
-      "anos": "2017 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/nissan-kicks-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "nissan-march-2012",
-      "marca": "Nissan",
-      "modelo": "March",
-      "anos": "2012 a 2020",
-      "carroceria": "Hatch",
-      "imagem": "imagens/nissan-march-2012.png",
-      "troca_cor": true
-    },
-    {
-      "id": "nissan-sentra-2014",
-      "marca": "Nissan",
-      "modelo": "Sentra",
-      "anos": "2014 a 2019",
-      "carroceria": "Sedã",
-      "imagem": "imagens/nissan-sentra-2014.png",
-      "troca_cor": true
-    },
-    {
-      "id": "peugeot-2008-2015",
-      "marca": "Peugeot",
-      "modelo": "2008",
-      "anos": "2015 a 2021",
-      "carroceria": "SUV",
-      "imagem": "imagens/peugeot-2008-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "peugeot-206-1999",
-      "marca": "Peugeot",
-      "modelo": "206",
-      "anos": "1999 a 2010",
-      "carroceria": "Hatch",
-      "imagem": "imagens/peugeot-206-1999.png",
-      "troca_cor": true
-    },
-    {
-      "id": "peugeot-208-2013",
-      "marca": "Peugeot",
-      "modelo": "208",
-      "anos": "2013 a 2025",
-      "carroceria": "Hatch",
-      "imagem": "imagens/peugeot-208-2013.png",
-      "troca_cor": true
-    },
-    {
-      "id": "peugeot-308-2012",
-      "marca": "Peugeot",
-      "modelo": "308",
-      "anos": "2014 a 2021",
-      "carroceria": "Hatch",
-      "imagem": "imagens/peugeot-308-2012.png",
-      "troca_cor": true
-    },
-    {
-      "id": "porsche-911-2016",
-      "marca": "Porsche",
-      "modelo": "911",
-      "anos": "2016 a 2019",
-      "carroceria": "Cupê",
-      "imagem": "imagens/porsche-911-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "ram-1500-2019",
-      "marca": "RAM",
-      "modelo": "1500",
-      "anos": "2013 a 2018",
-      "carroceria": "Picape",
-      "imagem": "imagens/ram-1500-2019.png",
-      "troca_cor": true
-    },
-    {
-      "id": "renault-captur-2017",
-      "marca": "Renault",
-      "modelo": "Captur",
-      "anos": "2017 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/renault-captur-2017.png",
-      "troca_cor": true
-    },
-    {
-      "id": "renault-duster-2016",
-      "marca": "Renault",
-      "modelo": "Duster",
-      "anos": "2016 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/renault-duster-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "renault-kwid-2018",
-      "marca": "Renault",
-      "modelo": "Kwid",
-      "anos": "2018 a 2025",
-      "carroceria": "Hatch",
-      "imagem": "imagens/renault-kwid-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "renault-logan-2015",
-      "marca": "Renault",
-      "modelo": "Logan",
-      "anos": "2015 a 2022",
-      "carroceria": "Sedã",
-      "imagem": "imagens/renault-logan-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "renault-sandero-2015",
-      "marca": "Renault",
-      "modelo": "Sandero",
-      "anos": "2015 a 2022",
-      "carroceria": "Hatch",
-      "imagem": "imagens/renault-sandero-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "subaru-forester-2019",
-      "marca": "Subaru",
-      "modelo": "Forester",
-      "anos": "2019 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/subaru-forester-2019.png",
-      "troca_cor": true
-    },
-    {
-      "id": "subaru-impreza-wrx-sti-2008",
-      "marca": "Subaru",
-      "modelo": "Impreza WRX STI",
-      "anos": "2008 a 2014",
-      "carroceria": "Hatch",
-      "imagem": "imagens/subaru-impreza-wrx-sti-2008.png",
-      "troca_cor": true
-    },
-    {
-      "id": "subaru-wrx-sti-2015",
-      "marca": "Subaru",
-      "modelo": "WRX STI",
-      "anos": "2015 a 2021",
-      "carroceria": "Sedã",
-      "imagem": "imagens/subaru-wrx-sti-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-camry-2018",
-      "marca": "Toyota",
-      "modelo": "Camry",
-      "anos": "2018 a 2024",
-      "carroceria": "Sedã",
-      "imagem": "imagens/toyota-camry-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-corolla-2015",
-      "marca": "Toyota",
-      "modelo": "Corolla",
-      "anos": "2015 a 2019",
-      "carroceria": "Sedã",
-      "imagem": "imagens/toyota-corolla-2015.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-corolla-2020",
-      "marca": "Toyota",
-      "modelo": "Corolla",
-      "anos": "2020 a 2025",
-      "carroceria": "Sedã",
-      "imagem": "imagens/toyota-corolla-2020.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-corolla-cross-2021",
-      "marca": "Toyota",
-      "modelo": "Corolla Cross",
-      "anos": "2021 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/toyota-corolla-cross-2021.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-supra-2020",
-      "marca": "Toyota",
-      "modelo": "GR Supra",
-      "anos": "2020 a 2025",
-      "carroceria": "Cupê",
-      "imagem": "imagens/toyota-supra-2020.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-hilux-2005",
-      "marca": "Toyota",
-      "modelo": "Hilux",
-      "anos": "2005 a 2015",
-      "carroceria": "Picape",
-      "imagem": "imagens/toyota-hilux-2005.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-hilux-2016",
-      "marca": "Toyota",
-      "modelo": "Hilux",
-      "anos": "2016 a 2025",
-      "carroceria": "Picape",
-      "imagem": "imagens/toyota-hilux-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-rav4-2019",
-      "marca": "Toyota",
-      "modelo": "RAV4",
-      "anos": "2019 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/toyota-rav4-2019.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-sw4-2016",
-      "marca": "Toyota",
-      "modelo": "SW4",
-      "anos": "2016 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/toyota-sw4-2016.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-supra-1993",
-      "marca": "Toyota",
-      "modelo": "Supra",
-      "anos": "1993 a 2002",
-      "carroceria": "Cupê",
-      "imagem": "imagens/toyota-supra-1993.png",
-      "troca_cor": true
-    },
-    {
-      "id": "toyota-yaris-2019",
-      "marca": "Toyota",
-      "modelo": "Yaris",
-      "anos": "2019 a 2025",
-      "carroceria": "Hatch",
-      "imagem": "imagens/toyota-yaris-2019.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-amarok-2010",
-      "marca": "Volkswagen",
-      "modelo": "Amarok",
-      "anos": "2010 a 2025",
-      "carroceria": "Picape",
-      "imagem": "imagens/volkswagen-amarok-2010.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-bora-2000",
-      "marca": "Volkswagen",
-      "modelo": "Bora",
-      "anos": "2000 a 2011",
-      "carroceria": "Sedã",
-      "imagem": "imagens/volkswagen-bora-2000.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-gol-g5",
-      "marca": "Volkswagen",
-      "modelo": "Gol",
-      "anos": "G5 (2009 a 2012)",
-      "carroceria": "Hatch",
-      "imagem": "imagens/volkswagen-gol-g5.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-gol-g7",
-      "marca": "Volkswagen",
-      "modelo": "Gol",
-      "anos": "G7/G8 (2017 a 2023)",
-      "carroceria": "Hatch",
-      "imagem": "imagens/volkswagen-gol-g7.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-golf-1999",
-      "marca": "Volkswagen",
-      "modelo": "Golf",
-      "anos": "1999 a 2013",
-      "carroceria": "Hatch",
-      "imagem": "imagens/volkswagen-golf-1999.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-golf-2014",
-      "marca": "Volkswagen",
-      "modelo": "Golf",
-      "anos": "2014 a 2019",
-      "carroceria": "Hatch",
-      "imagem": "imagens/volkswagen-golf-2014.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-golf-gti-2014",
-      "marca": "Volkswagen",
-      "modelo": "Golf GTI",
-      "anos": "2014 a 2020",
-      "carroceria": "Hatch",
-      "imagem": "imagens/volkswagen-golf-gti-2014.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-jetta-2011",
-      "marca": "Volkswagen",
-      "modelo": "Jetta",
-      "anos": "2011 a 2018",
-      "carroceria": "Sedã",
-      "imagem": "imagens/volkswagen-jetta-2011.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-jetta-2019",
-      "marca": "Volkswagen",
-      "modelo": "Jetta",
-      "anos": "2019 a 2025",
-      "carroceria": "Sedã",
-      "imagem": "imagens/volkswagen-jetta-2019.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-nivus-2021",
-      "marca": "Volkswagen",
-      "modelo": "Nivus",
-      "anos": "2021 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/volkswagen-nivus-2021.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-polo-2018",
-      "marca": "Volkswagen",
-      "modelo": "Polo",
-      "anos": "2018 a 2025",
-      "carroceria": "Hatch",
-      "imagem": "imagens/volkswagen-polo-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-saveiro-2010",
-      "marca": "Volkswagen",
-      "modelo": "Saveiro",
-      "anos": "2010 a 2023",
-      "carroceria": "Picape",
-      "imagem": "imagens/volkswagen-saveiro-2010.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-t-cross-2020",
-      "marca": "Volkswagen",
-      "modelo": "T-Cross",
-      "anos": "2020 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/volkswagen-t-cross-2020.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-taos-2021",
-      "marca": "Volkswagen",
-      "modelo": "Taos",
-      "anos": "2021 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/volkswagen-taos-2021.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-tiguan-2018",
-      "marca": "Volkswagen",
-      "modelo": "Tiguan",
-      "anos": "2018 a 2025",
-      "carroceria": "SUV",
-      "imagem": "imagens/volkswagen-tiguan-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-virtus-2018",
-      "marca": "Volkswagen",
-      "modelo": "Virtus",
-      "anos": "2018 a 2025",
-      "carroceria": "Sedã",
-      "imagem": "imagens/volkswagen-virtus-2018.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-voyage-g7",
-      "marca": "Volkswagen",
-      "modelo": "Voyage",
-      "anos": "G7 (2017 a 2023)",
-      "carroceria": "Sedã",
-      "imagem": "imagens/volkswagen-voyage-g7.png",
-      "troca_cor": true
-    },
-    {
-      "id": "volkswagen-up-2014",
-      "marca": "Volkswagen",
-      "modelo": "up!",
-      "anos": "2014 a 2021",
-      "carroceria": "Hatch",
-      "imagem": "imagens/volkswagen-up-2014.png",
-      "troca_cor": true
-    }
-  ]
+ "versao": 7,
+ "carros": [
+  {
+   "id": "audi-a3-2014",
+   "marca": "Audi",
+   "modelo": "A3 Sedan",
+   "anos": "2014 a 2020",
+   "carroceria": "Sedã",
+   "imagem": "imagens/audi-a3-2014.png",
+   "troca_cor": true
+  },
+  {
+   "id": "audi-r8-2015",
+   "marca": "Audi",
+   "modelo": "R8",
+   "anos": "2015 a 2024",
+   "carroceria": "Cupê",
+   "imagem": "imagens/audi-r8-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "bmw-m3-e46-2001",
+   "marca": "BMW",
+   "modelo": "M3",
+   "anos": "2001 a 2006",
+   "carroceria": "Cupê",
+   "imagem": "imagens/bmw-m3-e46-2001.png",
+   "troca_cor": true
+  },
+  {
+   "id": "bmw-320i-2019",
+   "marca": "BMW",
+   "modelo": "Série 3",
+   "anos": "2019 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/bmw-320i-2019.png",
+   "troca_cor": true
+  },
+  {
+   "id": "bmw-x1-2016",
+   "marca": "BMW",
+   "modelo": "X1",
+   "anos": "2016 a 2022",
+   "carroceria": "SUV",
+   "imagem": "imagens/bmw-x1-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-astra-2003",
+   "marca": "Chevrolet",
+   "modelo": "Astra Sedan",
+   "anos": "2003 a 2011",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-astra-2003.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-camaro-2016",
+   "marca": "Chevrolet",
+   "modelo": "Camaro",
+   "anos": "2016 a 2024",
+   "carroceria": "Cupê",
+   "imagem": "imagens/chevrolet-camaro-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-corvette-2020",
+   "marca": "Chevrolet",
+   "modelo": "Corvette",
+   "anos": "2020 a 2025",
+   "carroceria": "Cupê",
+   "imagem": "imagens/chevrolet-corvette-2020.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-cruze-2012",
+   "marca": "Chevrolet",
+   "modelo": "Cruze",
+   "anos": "2012 a 2016",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-cruze-2012.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-cruze-2017",
+   "marca": "Chevrolet",
+   "modelo": "Cruze",
+   "anos": "2017 a 2024",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-cruze-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-equinox-2018",
+   "marca": "Chevrolet",
+   "modelo": "Equinox",
+   "anos": "2018 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/chevrolet-equinox-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-onix-2020",
+   "marca": "Chevrolet",
+   "modelo": "Onix",
+   "anos": "2020 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/chevrolet-onix-2020.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-s10-2012",
+   "marca": "Chevrolet",
+   "modelo": "S10",
+   "anos": "2012 a 2024",
+   "carroceria": "Picape",
+   "imagem": "imagens/chevrolet-s10-2012.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-silverado-2019",
+   "marca": "Chevrolet",
+   "modelo": "Silverado",
+   "anos": "2019 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/chevrolet-silverado-2019.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-tracker-2017",
+   "marca": "Chevrolet",
+   "modelo": "Tracker",
+   "anos": "2017 a 2020",
+   "carroceria": "SUV",
+   "imagem": "imagens/chevrolet-tracker-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "chevrolet-vectra-1997",
+   "marca": "Chevrolet",
+   "modelo": "Vectra",
+   "anos": "1997 a 2005",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-vectra-1997.png",
+   "troca_cor": true
+  },
+  {
+   "id": "citroen-c4-cactus-2019",
+   "marca": "Citroën",
+   "modelo": "C4 Cactus",
+   "anos": "2019 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/citroen-c4-cactus-2019.png",
+   "troca_cor": true
+  },
+  {
+   "id": "dodge-challenger-2015",
+   "marca": "Dodge",
+   "modelo": "Challenger",
+   "anos": "2015 a 2023",
+   "carroceria": "Cupê",
+   "imagem": "imagens/dodge-challenger-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "fiat-500-2009",
+   "marca": "Fiat",
+   "modelo": "500",
+   "anos": "2009 a 2020",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-500-2009.png",
+   "troca_cor": true
+  },
+  {
+   "id": "fiat-argo-2018",
+   "marca": "Fiat",
+   "modelo": "Argo",
+   "anos": "2018 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-argo-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "fiat-cronos-2018",
+   "marca": "Fiat",
+   "modelo": "Cronos",
+   "anos": "2018 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/fiat-cronos-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "fiat-pulse-2022",
+   "marca": "Fiat",
+   "modelo": "Pulse",
+   "anos": "2022 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/fiat-pulse-2022.png",
+   "troca_cor": true
+  },
+  {
+   "id": "fiat-strada-2021",
+   "marca": "Fiat",
+   "modelo": "Strada",
+   "anos": "2021 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/fiat-strada-2021.png",
+   "troca_cor": true
+  },
+  {
+   "id": "fiat-toro-2017",
+   "marca": "Fiat",
+   "modelo": "Toro",
+   "anos": "2017 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/fiat-toro-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "fiat-uno-2011",
+   "marca": "Fiat",
+   "modelo": "Uno",
+   "anos": "2011 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-uno-2011.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ford-ecosport-2013",
+   "marca": "Ford",
+   "modelo": "EcoSport",
+   "anos": "2013 a 2021",
+   "carroceria": "SUV",
+   "imagem": "imagens/ford-ecosport-2013.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ford-f150-2015",
+   "marca": "Ford",
+   "modelo": "F-150",
+   "anos": "2015 a 2020",
+   "carroceria": "Picape",
+   "imagem": "imagens/ford-f150-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ford-fiesta-2011",
+   "marca": "Ford",
+   "modelo": "Fiesta",
+   "anos": "2011 a 2019",
+   "carroceria": "Hatch",
+   "imagem": "imagens/ford-fiesta-2011.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ford-focus-2014",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "anos": "2014 a 2019",
+   "carroceria": "Hatch",
+   "imagem": "imagens/ford-focus-2014.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ford-fusion-2013",
+   "marca": "Ford",
+   "modelo": "Fusion",
+   "anos": "2013 a 2020",
+   "carroceria": "Sedã",
+   "imagem": "imagens/ford-fusion-2013.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ford-ka-2015",
+   "marca": "Ford",
+   "modelo": "Ka",
+   "anos": "2015 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/ford-ka-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ford-mustang-2015",
+   "marca": "Ford",
+   "modelo": "Mustang",
+   "anos": "2015 a 2023",
+   "carroceria": "Cupê",
+   "imagem": "imagens/ford-mustang-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ford-ranger-2013",
+   "marca": "Ford",
+   "modelo": "Ranger",
+   "anos": "2013 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/ford-ranger-2013.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-accord-2008",
+   "marca": "Honda",
+   "modelo": "Accord",
+   "anos": "2008 a 2012",
+   "carroceria": "Sedã",
+   "imagem": "imagens/honda-accord-2008.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-crv-2017",
+   "marca": "Honda",
+   "modelo": "CR-V",
+   "anos": "2017 a 2022",
+   "carroceria": "SUV",
+   "imagem": "imagens/honda-crv-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-city-2021",
+   "marca": "Honda",
+   "modelo": "City",
+   "anos": "2021 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/honda-city-2021.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-civic-2012",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "anos": "2012 a 2016",
+   "carroceria": "Sedã",
+   "imagem": "imagens/honda-civic-2012.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-civic-2017",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "anos": "2017 a 2021",
+   "carroceria": "Sedã",
+   "imagem": "imagens/honda-civic-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-civic-2022",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "anos": "2022 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/honda-civic-2022.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-civic-type-r-2017",
+   "marca": "Honda",
+   "modelo": "Civic Type R",
+   "anos": "2017 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/honda-civic-type-r-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-fit-2015",
+   "marca": "Honda",
+   "modelo": "Fit",
+   "anos": "2015 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/honda-fit-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-hr-v-2016",
+   "marca": "Honda",
+   "modelo": "HR-V",
+   "anos": "2016 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/honda-hr-v-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "hyundai-creta-2017",
+   "marca": "Hyundai",
+   "modelo": "Creta",
+   "anos": "2017 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/hyundai-creta-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "hyundai-tucson-2010",
+   "marca": "Hyundai",
+   "modelo": "Tucson",
+   "anos": "2010 a 2022",
+   "carroceria": "SUV",
+   "imagem": "imagens/hyundai-tucson-2010.png",
+   "troca_cor": true
+  },
+  {
+   "id": "hyundai-veloster-2012",
+   "marca": "Hyundai",
+   "modelo": "Veloster",
+   "anos": "2012 a 2017",
+   "carroceria": "Hatch",
+   "imagem": "imagens/hyundai-veloster-2012.png",
+   "troca_cor": true
+  },
+  {
+   "id": "jeep-compass-2017",
+   "marca": "Jeep",
+   "modelo": "Compass",
+   "anos": "2017 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/jeep-compass-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "jeep-renegade-2016",
+   "marca": "Jeep",
+   "modelo": "Renegade",
+   "anos": "2016 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/jeep-renegade-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "jeep-wrangler-2018",
+   "marca": "Jeep",
+   "modelo": "Wrangler",
+   "anos": "2018 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/jeep-wrangler-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "kia-soul-2010",
+   "marca": "Kia",
+   "modelo": "Soul",
+   "anos": "2010 a 2013",
+   "carroceria": "Hatch",
+   "imagem": "imagens/kia-soul-2010.png",
+   "troca_cor": true
+  },
+  {
+   "id": "kia-sportage-2011",
+   "marca": "Kia",
+   "modelo": "Sportage",
+   "anos": "2011 a 2016",
+   "carroceria": "SUV",
+   "imagem": "imagens/kia-sportage-2011.png",
+   "troca_cor": true
+  },
+  {
+   "id": "kia-sportage-2017",
+   "marca": "Kia",
+   "modelo": "Sportage",
+   "anos": "2017 a 2021",
+   "carroceria": "SUV",
+   "imagem": "imagens/kia-sportage-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "kia-stinger-2018",
+   "marca": "Kia",
+   "modelo": "Stinger",
+   "anos": "2018 a 2023",
+   "carroceria": "Sedã",
+   "imagem": "imagens/kia-stinger-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mazda-mx5-2016",
+   "marca": "Mazda",
+   "modelo": "MX-5",
+   "anos": "2016 a 2025",
+   "carroceria": "Conversível",
+   "imagem": "imagens/mazda-mx5-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mazda-rx7-1993",
+   "marca": "Mazda",
+   "modelo": "RX-7",
+   "anos": "1993 a 2002",
+   "carroceria": "Cupê",
+   "imagem": "imagens/mazda-rx7-1993.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mercedes-c-class-2015",
+   "marca": "Mercedes-Benz",
+   "modelo": "Classe C",
+   "anos": "2015 a 2021",
+   "carroceria": "Sedã",
+   "imagem": "imagens/mercedes-c-class-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mercedes-gla-2015",
+   "marca": "Mercedes-Benz",
+   "modelo": "GLA",
+   "anos": "2015 a 2020",
+   "carroceria": "SUV",
+   "imagem": "imagens/mercedes-gla-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-3000gt-1994",
+   "marca": "Mitsubishi",
+   "modelo": "3000GT",
+   "anos": "1994 a 1999",
+   "carroceria": "Cupê",
+   "imagem": "imagens/mitsubishi-3000gt-1994.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-asx-2011",
+   "marca": "Mitsubishi",
+   "modelo": "ASX",
+   "anos": "2011 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/mitsubishi-asx-2011.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-eclipse-1995",
+   "marca": "Mitsubishi",
+   "modelo": "Eclipse",
+   "anos": "1995 a 1999",
+   "carroceria": "Cupê",
+   "imagem": "imagens/mitsubishi-eclipse-1995.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-eclipse-cross-2018",
+   "marca": "Mitsubishi",
+   "modelo": "Eclipse Cross",
+   "anos": "2018 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/mitsubishi-eclipse-cross-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-l200-triton-2008",
+   "marca": "Mitsubishi",
+   "modelo": "L200 Triton",
+   "anos": "2008 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/mitsubishi-l200-triton-2008.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-lancer-2011",
+   "marca": "Mitsubishi",
+   "modelo": "Lancer",
+   "anos": "2011 a 2019",
+   "carroceria": "Sedã",
+   "imagem": "imagens/mitsubishi-lancer-2011.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-lancer-evo-ix-2005",
+   "marca": "Mitsubishi",
+   "modelo": "Lancer Evolution IX",
+   "anos": "2005 a 2007",
+   "carroceria": "Sedã",
+   "imagem": "imagens/mitsubishi-lancer-evo-ix-2005.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-lancer-evo-x-2008",
+   "marca": "Mitsubishi",
+   "modelo": "Lancer Evolution X",
+   "anos": "2008 a 2016",
+   "carroceria": "Sedã",
+   "imagem": "imagens/mitsubishi-lancer-evo-x-2008.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-lancer-sportback-ralliart",
+   "marca": "Mitsubishi",
+   "modelo": "Lancer Sportback Ralliart",
+   "anos": "2010 a 2017",
+   "carroceria": "Hatch",
+   "imagem": "imagens/mitsubishi-lancer-sportback-ralliart.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-lancer-widebody",
+   "marca": "Mitsubishi",
+   "modelo": "Lancer Widebody",
+   "anos": "2008 a 2017",
+   "carroceria": "Sedã",
+   "imagem": "imagens/mitsubishi-lancer-widebody.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-outlander-2014",
+   "marca": "Mitsubishi",
+   "modelo": "Outlander",
+   "anos": "2014 a 2021",
+   "carroceria": "SUV",
+   "imagem": "imagens/mitsubishi-outlander-2014.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-pajero-full-2007",
+   "marca": "Mitsubishi",
+   "modelo": "Pajero Full",
+   "anos": "2007 a 2020",
+   "carroceria": "SUV",
+   "imagem": "imagens/mitsubishi-pajero-full-2007.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-pajero-sport-2016",
+   "marca": "Mitsubishi",
+   "modelo": "Pajero Sport",
+   "anos": "2016 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/mitsubishi-pajero-sport-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "mitsubishi-pajero-tr4-2003",
+   "marca": "Mitsubishi",
+   "modelo": "Pajero TR4",
+   "anos": "2003 a 2015",
+   "carroceria": "SUV",
+   "imagem": "imagens/mitsubishi-pajero-tr4-2003.png",
+   "troca_cor": true
+  },
+  {
+   "id": "nissan-350z-2003",
+   "marca": "Nissan",
+   "modelo": "350Z",
+   "anos": "2003 a 2009",
+   "carroceria": "Cupê",
+   "imagem": "imagens/nissan-350z-2003.png",
+   "troca_cor": true
+  },
+  {
+   "id": "nissan-frontier-2008",
+   "marca": "Nissan",
+   "modelo": "Frontier",
+   "anos": "2008 a 2016",
+   "carroceria": "Picape",
+   "imagem": "imagens/nissan-frontier-2008.png",
+   "troca_cor": true
+  },
+  {
+   "id": "nissan-frontier-2017",
+   "marca": "Nissan",
+   "modelo": "Frontier",
+   "anos": "2017 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/nissan-frontier-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "nissan-gtr-2009",
+   "marca": "Nissan",
+   "modelo": "GT-R",
+   "anos": "2009 a 2024",
+   "carroceria": "Cupê",
+   "imagem": "imagens/nissan-gtr-2009.png",
+   "troca_cor": true
+  },
+  {
+   "id": "nissan-kicks-2017",
+   "marca": "Nissan",
+   "modelo": "Kicks",
+   "anos": "2017 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/nissan-kicks-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "nissan-march-2012",
+   "marca": "Nissan",
+   "modelo": "March",
+   "anos": "2012 a 2020",
+   "carroceria": "Hatch",
+   "imagem": "imagens/nissan-march-2012.png",
+   "troca_cor": true
+  },
+  {
+   "id": "nissan-sentra-2014",
+   "marca": "Nissan",
+   "modelo": "Sentra",
+   "anos": "2014 a 2019",
+   "carroceria": "Sedã",
+   "imagem": "imagens/nissan-sentra-2014.png",
+   "troca_cor": true
+  },
+  {
+   "id": "peugeot-2008-2015",
+   "marca": "Peugeot",
+   "modelo": "2008",
+   "anos": "2015 a 2021",
+   "carroceria": "SUV",
+   "imagem": "imagens/peugeot-2008-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "peugeot-206-1999",
+   "marca": "Peugeot",
+   "modelo": "206",
+   "anos": "1999 a 2010",
+   "carroceria": "Hatch",
+   "imagem": "imagens/peugeot-206-1999.png",
+   "troca_cor": true
+  },
+  {
+   "id": "peugeot-208-2013",
+   "marca": "Peugeot",
+   "modelo": "208",
+   "anos": "2013 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/peugeot-208-2013.png",
+   "troca_cor": true
+  },
+  {
+   "id": "peugeot-308-2012",
+   "marca": "Peugeot",
+   "modelo": "308",
+   "anos": "2014 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/peugeot-308-2012.png",
+   "troca_cor": true
+  },
+  {
+   "id": "porsche-911-2016",
+   "marca": "Porsche",
+   "modelo": "911",
+   "anos": "2016 a 2019",
+   "carroceria": "Cupê",
+   "imagem": "imagens/porsche-911-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "ram-1500-2019",
+   "marca": "RAM",
+   "modelo": "1500",
+   "anos": "2013 a 2018",
+   "carroceria": "Picape",
+   "imagem": "imagens/ram-1500-2019.png",
+   "troca_cor": true
+  },
+  {
+   "id": "renault-captur-2017",
+   "marca": "Renault",
+   "modelo": "Captur",
+   "anos": "2017 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/renault-captur-2017.png",
+   "troca_cor": true
+  },
+  {
+   "id": "renault-duster-2016",
+   "marca": "Renault",
+   "modelo": "Duster",
+   "anos": "2016 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/renault-duster-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "renault-fluence-2014",
+   "marca": "Renault",
+   "modelo": "Fluence",
+   "anos": "2011 a 2018",
+   "carroceria": "Sedã",
+   "imagem": "imagens/renault-fluence-2014.png",
+   "troca_cor": true
+  },
+  {
+   "id": "renault-kwid-2018",
+   "marca": "Renault",
+   "modelo": "Kwid",
+   "anos": "2018 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/renault-kwid-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "renault-logan-2015",
+   "marca": "Renault",
+   "modelo": "Logan",
+   "anos": "2015 a 2022",
+   "carroceria": "Sedã",
+   "imagem": "imagens/renault-logan-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "renault-sandero-2015",
+   "marca": "Renault",
+   "modelo": "Sandero",
+   "anos": "2015 a 2022",
+   "carroceria": "Hatch",
+   "imagem": "imagens/renault-sandero-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "subaru-forester-2019",
+   "marca": "Subaru",
+   "modelo": "Forester",
+   "anos": "2019 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/subaru-forester-2019.png",
+   "troca_cor": true
+  },
+  {
+   "id": "subaru-impreza-wrx-sti-2008",
+   "marca": "Subaru",
+   "modelo": "Impreza WRX STI",
+   "anos": "2008 a 2014",
+   "carroceria": "Hatch",
+   "imagem": "imagens/subaru-impreza-wrx-sti-2008.png",
+   "troca_cor": true
+  },
+  {
+   "id": "subaru-wrx-sti-2015",
+   "marca": "Subaru",
+   "modelo": "WRX STI",
+   "anos": "2015 a 2021",
+   "carroceria": "Sedã",
+   "imagem": "imagens/subaru-wrx-sti-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-camry-2018",
+   "marca": "Toyota",
+   "modelo": "Camry",
+   "anos": "2018 a 2024",
+   "carroceria": "Sedã",
+   "imagem": "imagens/toyota-camry-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-corolla-2015",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "anos": "2015 a 2019",
+   "carroceria": "Sedã",
+   "imagem": "imagens/toyota-corolla-2015.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-corolla-2020",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "anos": "2020 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/toyota-corolla-2020.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-corolla-cross-2021",
+   "marca": "Toyota",
+   "modelo": "Corolla Cross",
+   "anos": "2021 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/toyota-corolla-cross-2021.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-supra-2020",
+   "marca": "Toyota",
+   "modelo": "GR Supra",
+   "anos": "2020 a 2025",
+   "carroceria": "Cupê",
+   "imagem": "imagens/toyota-supra-2020.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-hilux-2005",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "anos": "2005 a 2015",
+   "carroceria": "Picape",
+   "imagem": "imagens/toyota-hilux-2005.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-hilux-2016",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "anos": "2016 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/toyota-hilux-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-rav4-2019",
+   "marca": "Toyota",
+   "modelo": "RAV4",
+   "anos": "2019 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/toyota-rav4-2019.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-sw4-2016",
+   "marca": "Toyota",
+   "modelo": "SW4",
+   "anos": "2016 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/toyota-sw4-2016.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-supra-1993",
+   "marca": "Toyota",
+   "modelo": "Supra",
+   "anos": "1993 a 2002",
+   "carroceria": "Cupê",
+   "imagem": "imagens/toyota-supra-1993.png",
+   "troca_cor": true
+  },
+  {
+   "id": "toyota-yaris-2019",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "anos": "2019 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/toyota-yaris-2019.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-amarok-2010",
+   "marca": "Volkswagen",
+   "modelo": "Amarok",
+   "anos": "2010 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/volkswagen-amarok-2010.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-bora-2000",
+   "marca": "Volkswagen",
+   "modelo": "Bora",
+   "anos": "2000 a 2011",
+   "carroceria": "Sedã",
+   "imagem": "imagens/volkswagen-bora-2000.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-gol-g5",
+   "marca": "Volkswagen",
+   "modelo": "Gol",
+   "anos": "G5 (2009 a 2012)",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-gol-g5.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-gol-g7",
+   "marca": "Volkswagen",
+   "modelo": "Gol",
+   "anos": "G7/G8 (2017 a 2023)",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-gol-g7.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-golf-1999",
+   "marca": "Volkswagen",
+   "modelo": "Golf",
+   "anos": "1999 a 2013",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-golf-1999.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-golf-2014",
+   "marca": "Volkswagen",
+   "modelo": "Golf",
+   "anos": "2014 a 2019",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-golf-2014.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-golf-gti-2014",
+   "marca": "Volkswagen",
+   "modelo": "Golf GTI",
+   "anos": "2014 a 2020",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-golf-gti-2014.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-jetta-2011",
+   "marca": "Volkswagen",
+   "modelo": "Jetta",
+   "anos": "2011 a 2018",
+   "carroceria": "Sedã",
+   "imagem": "imagens/volkswagen-jetta-2011.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-jetta-2019",
+   "marca": "Volkswagen",
+   "modelo": "Jetta",
+   "anos": "2019 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/volkswagen-jetta-2019.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-nivus-2021",
+   "marca": "Volkswagen",
+   "modelo": "Nivus",
+   "anos": "2021 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/volkswagen-nivus-2021.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-polo-2018",
+   "marca": "Volkswagen",
+   "modelo": "Polo",
+   "anos": "2018 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-polo-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-saveiro-2010",
+   "marca": "Volkswagen",
+   "modelo": "Saveiro",
+   "anos": "2010 a 2023",
+   "carroceria": "Picape",
+   "imagem": "imagens/volkswagen-saveiro-2010.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-t-cross-2020",
+   "marca": "Volkswagen",
+   "modelo": "T-Cross",
+   "anos": "2020 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/volkswagen-t-cross-2020.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-taos-2021",
+   "marca": "Volkswagen",
+   "modelo": "Taos",
+   "anos": "2021 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/volkswagen-taos-2021.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-tiguan-2018",
+   "marca": "Volkswagen",
+   "modelo": "Tiguan",
+   "anos": "2018 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/volkswagen-tiguan-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-virtus-2018",
+   "marca": "Volkswagen",
+   "modelo": "Virtus",
+   "anos": "2018 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/volkswagen-virtus-2018.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-voyage-g7",
+   "marca": "Volkswagen",
+   "modelo": "Voyage",
+   "anos": "G7 (2017 a 2023)",
+   "carroceria": "Sedã",
+   "imagem": "imagens/volkswagen-voyage-g7.png",
+   "troca_cor": true
+  },
+  {
+   "id": "volkswagen-up-2014",
+   "marca": "Volkswagen",
+   "modelo": "up!",
+   "anos": "2014 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-up-2014.png",
+   "troca_cor": true
+  }
+ ]
 }
