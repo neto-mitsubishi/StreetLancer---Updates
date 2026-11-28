@@ -1,5 +1,5 @@
 {
- "versao": 9,
+ "versao": 10,
  "carros": [
   {
    "id": "audi-a3-2014",
@@ -1220,6 +1220,686 @@
    "imagem": "imagens/volkswagen-up-2014.png",
    "troca_cor": true,
    "imagem_lado": "imagens/lado/volkswagen-up-2014.png"
+  },
+  {
+   "id": "hyundai-hb20-2013",
+   "marca": "Hyundai",
+   "modelo": "HB20",
+   "anos": "2013 a 2019",
+   "carroceria": "Hatch",
+   "imagem": "imagens/hyundai-hb20-2013.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/hyundai-hb20-2013.png"
+  },
+  {
+   "id": "hyundai-hb20-2020",
+   "marca": "Hyundai",
+   "modelo": "HB20",
+   "anos": "2020 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/hyundai-hb20-2020.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/hyundai-hb20-2020.png"
+  },
+  {
+   "id": "hyundai-hb20s-2020",
+   "marca": "Hyundai",
+   "modelo": "HB20S",
+   "anos": "2020 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/hyundai-hb20s-2020.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/hyundai-hb20s-2020.png"
+  },
+  {
+   "id": "hyundai-i30-2009",
+   "marca": "Hyundai",
+   "modelo": "i30",
+   "anos": "2009 a 2012",
+   "carroceria": "Hatch",
+   "imagem": "imagens/hyundai-i30-2009.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/hyundai-i30-2009.png"
+  },
+  {
+   "id": "chevrolet-celta-2007",
+   "marca": "Chevrolet",
+   "modelo": "Celta",
+   "anos": "2007 a 2015",
+   "carroceria": "Hatch",
+   "imagem": "imagens/chevrolet-celta-2007.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-celta-2007.png"
+  },
+  {
+   "id": "chevrolet-corsa-2003",
+   "marca": "Chevrolet",
+   "modelo": "Corsa",
+   "anos": "2003 a 2012",
+   "carroceria": "Hatch",
+   "imagem": "imagens/chevrolet-corsa-2003.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-corsa-2003.png"
+  },
+  {
+   "id": "chevrolet-onix-2013",
+   "marca": "Chevrolet",
+   "modelo": "Onix",
+   "anos": "2013 a 2019",
+   "carroceria": "Hatch",
+   "imagem": "imagens/chevrolet-onix-2013.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-onix-2013.png"
+  },
+  {
+   "id": "chevrolet-onix-plus-2020",
+   "marca": "Chevrolet",
+   "modelo": "Onix Plus",
+   "anos": "2020 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-onix-plus-2020.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-onix-plus-2020.png"
+  },
+  {
+   "id": "chevrolet-prisma-2013",
+   "marca": "Chevrolet",
+   "modelo": "Prisma",
+   "anos": "2013 a 2019",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-prisma-2013.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-prisma-2013.png"
+  },
+  {
+   "id": "chevrolet-cobalt-2012",
+   "marca": "Chevrolet",
+   "modelo": "Cobalt",
+   "anos": "2012 a 2019",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-cobalt-2012.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-cobalt-2012.png"
+  },
+  {
+   "id": "chevrolet-spin-2013",
+   "marca": "Chevrolet",
+   "modelo": "Spin",
+   "anos": "2013 a 2025",
+   "carroceria": "Minivan",
+   "imagem": "imagens/chevrolet-spin-2013.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-spin-2013.png"
+  },
+  {
+   "id": "chevrolet-astra-hatch-1999",
+   "marca": "Chevrolet",
+   "modelo": "Astra Hatch",
+   "anos": "1999 a 2011",
+   "carroceria": "Hatch",
+   "imagem": "imagens/chevrolet-astra-hatch-1999.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-astra-hatch-1999.png"
+  },
+  {
+   "id": "chevrolet-trailblazer-2013",
+   "marca": "Chevrolet",
+   "modelo": "Trailblazer",
+   "anos": "2013 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/chevrolet-trailblazer-2013.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-trailblazer-2013.png"
+  },
+  {
+   "id": "chevrolet-montana-2011",
+   "marca": "Chevrolet",
+   "modelo": "Montana",
+   "anos": "2011 a 2021",
+   "carroceria": "Picape",
+   "imagem": "imagens/chevrolet-montana-2011.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-montana-2011.png"
+  },
+  {
+   "id": "chevrolet-montana-2023",
+   "marca": "Chevrolet",
+   "modelo": "Montana",
+   "anos": "2023 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/chevrolet-montana-2023.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-montana-2023.png"
+  },
+  {
+   "id": "fiat-palio-1996",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "anos": "1996 a 2003",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-palio-1996.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-palio-1996.png"
+  },
+  {
+   "id": "fiat-palio-2012",
+   "marca": "Fiat",
+   "modelo": "Palio",
+   "anos": "2012 a 2017",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-palio-2012.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-palio-2012.png"
+  },
+  {
+   "id": "fiat-grand-siena-2012",
+   "marca": "Fiat",
+   "modelo": "Grand Siena",
+   "anos": "2012 a 2021",
+   "carroceria": "Sedã",
+   "imagem": "imagens/fiat-grand-siena-2012.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-grand-siena-2012.png"
+  },
+  {
+   "id": "fiat-mobi-2017",
+   "marca": "Fiat",
+   "modelo": "Mobi",
+   "anos": "2017 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-mobi-2017.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-mobi-2017.png"
+  },
+  {
+   "id": "fiat-punto-2008",
+   "marca": "Fiat",
+   "modelo": "Punto",
+   "anos": "2008 a 2017",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-punto-2008.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-punto-2008.png"
+  },
+  {
+   "id": "fiat-fastback-2023",
+   "marca": "Fiat",
+   "modelo": "Fastback",
+   "anos": "2023 a 2025",
+   "carroceria": "SUV cupê",
+   "imagem": "imagens/fiat-fastback-2023.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-fastback-2023.png"
+  },
+  {
+   "id": "fiat-strada-2004",
+   "marca": "Fiat",
+   "modelo": "Strada",
+   "anos": "2004 a 2020",
+   "carroceria": "Picape",
+   "imagem": "imagens/fiat-strada-2004.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-strada-2004.png"
+  },
+  {
+   "id": "fiat-titano-2024",
+   "marca": "Fiat",
+   "modelo": "Titano",
+   "anos": "2024 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/fiat-titano-2024.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-titano-2024.png"
+  },
+  {
+   "id": "volkswagen-gol-g4",
+   "marca": "Volkswagen",
+   "modelo": "Gol",
+   "anos": "G4 (2006 a 2014)",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-gol-g4.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-gol-g4.png"
+  },
+  {
+   "id": "volkswagen-gol-g6",
+   "marca": "Volkswagen",
+   "modelo": "Gol",
+   "anos": "G6 (2013 a 2016)",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-gol-g6.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-gol-g6.png"
+  },
+  {
+   "id": "volkswagen-fox-2010",
+   "marca": "Volkswagen",
+   "modelo": "Fox",
+   "anos": "2010 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-fox-2010.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-fox-2010.png"
+  },
+  {
+   "id": "volkswagen-crossfox-2010",
+   "marca": "Volkswagen",
+   "modelo": "CrossFox",
+   "anos": "2010 a 2020",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-crossfox-2010.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-crossfox-2010.png"
+  },
+  {
+   "id": "volkswagen-voyage-g5",
+   "marca": "Volkswagen",
+   "modelo": "Voyage",
+   "anos": "G5/G6 (2009 a 2016)",
+   "carroceria": "Sedã",
+   "imagem": "imagens/volkswagen-voyage-g5.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-voyage-g5.png"
+  },
+  {
+   "id": "renault-sandero-stepway-2015",
+   "marca": "Renault",
+   "modelo": "Sandero Stepway",
+   "anos": "2015 a 2022",
+   "carroceria": "Hatch",
+   "imagem": "imagens/renault-sandero-stepway-2015.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/renault-sandero-stepway-2015.png"
+  },
+  {
+   "id": "renault-clio-2003",
+   "marca": "Renault",
+   "modelo": "Clio",
+   "anos": "2003 a 2016",
+   "carroceria": "Hatch",
+   "imagem": "imagens/renault-clio-2003.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/renault-clio-2003.png"
+  },
+  {
+   "id": "renault-oroch-2016",
+   "marca": "Renault",
+   "modelo": "Duster Oroch",
+   "anos": "2016 a 2025",
+   "carroceria": "Picape",
+   "imagem": "imagens/renault-oroch-2016.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/renault-oroch-2016.png"
+  },
+  {
+   "id": "toyota-etios-2013",
+   "marca": "Toyota",
+   "modelo": "Etios",
+   "anos": "2013 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/toyota-etios-2013.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/toyota-etios-2013.png"
+  },
+  {
+   "id": "toyota-corolla-2009",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "anos": "2009 a 2014",
+   "carroceria": "Sedã",
+   "imagem": "imagens/toyota-corolla-2009.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/toyota-corolla-2009.png"
+  },
+  {
+   "id": "toyota-sw4-2005",
+   "marca": "Toyota",
+   "modelo": "Hilux SW4",
+   "anos": "2005 a 2015",
+   "carroceria": "SUV",
+   "imagem": "imagens/toyota-sw4-2005.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/toyota-sw4-2005.png"
+  },
+  {
+   "id": "nissan-versa-2012",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "anos": "2012 a 2019",
+   "carroceria": "Sedã",
+   "imagem": "imagens/nissan-versa-2012.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/nissan-versa-2012.png"
+  },
+  {
+   "id": "nissan-versa-2021",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "anos": "2021 a 2025",
+   "carroceria": "Sedã",
+   "imagem": "imagens/nissan-versa-2021.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/nissan-versa-2021.png"
+  },
+  {
+   "id": "citroen-c3-2013",
+   "marca": "Citroën",
+   "modelo": "C3",
+   "anos": "2013 a 2021",
+   "carroceria": "Hatch",
+   "imagem": "imagens/citroen-c3-2013.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/citroen-c3-2013.png"
+  },
+  {
+   "id": "citroen-c3-2023",
+   "marca": "Citroën",
+   "modelo": "C3",
+   "anos": "2023 a 2025",
+   "carroceria": "Hatch",
+   "imagem": "imagens/citroen-c3-2023.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/citroen-c3-2023.png"
+  },
+  {
+   "id": "peugeot-207-2009",
+   "marca": "Peugeot",
+   "modelo": "207",
+   "anos": "2009 a 2015",
+   "carroceria": "Hatch",
+   "imagem": "imagens/peugeot-207-2009.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/peugeot-207-2009.png"
+  },
+  {
+   "id": "ford-territory-2021",
+   "marca": "Ford",
+   "modelo": "Territory",
+   "anos": "2021 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/ford-territory-2021.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/ford-territory-2021.png"
+  },
+  {
+   "id": "ford-bronco-sport-2021",
+   "marca": "Ford",
+   "modelo": "Bronco Sport",
+   "anos": "2021 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/ford-bronco-sport-2021.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/ford-bronco-sport-2021.png"
+  },
+  {
+   "id": "honda-wrv-2017",
+   "marca": "Honda",
+   "modelo": "WR-V",
+   "anos": "2017 a 2022",
+   "carroceria": "SUV",
+   "imagem": "imagens/honda-wrv-2017.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/honda-wrv-2017.png"
+  },
+  {
+   "id": "honda-civic-si-2007",
+   "marca": "Honda",
+   "modelo": "Civic Si",
+   "anos": "2007 a 2011",
+   "carroceria": "Sedã",
+   "imagem": "imagens/honda-civic-si-2007.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/honda-civic-si-2007.png"
+  },
+  {
+   "id": "kia-picanto-2012",
+   "marca": "Kia",
+   "modelo": "Picanto",
+   "anos": "2012 a 2017",
+   "carroceria": "Hatch",
+   "imagem": "imagens/kia-picanto-2012.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/kia-picanto-2012.png"
+  },
+  {
+   "id": "hyundai-santa-fe-2013",
+   "marca": "Hyundai",
+   "modelo": "Santa Fe",
+   "anos": "2013 a 2018",
+   "carroceria": "SUV",
+   "imagem": "imagens/hyundai-santa-fe-2013.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/hyundai-santa-fe-2013.png"
+  },
+  {
+   "id": "jeep-commander-2022",
+   "marca": "Jeep",
+   "modelo": "Commander",
+   "anos": "2022 a 2025",
+   "carroceria": "SUV",
+   "imagem": "imagens/jeep-commander-2022.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/jeep-commander-2022.png"
+  },
+  {
+   "id": "mitsubishi-l200-sport-2004",
+   "marca": "Mitsubishi",
+   "modelo": "L200 Sport",
+   "anos": "2004 a 2011",
+   "carroceria": "Picape",
+   "imagem": "imagens/mitsubishi-l200-sport-2004.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/mitsubishi-l200-sport-2004.png"
+  },
+  {
+   "id": "chevrolet-opala-1979",
+   "marca": "Chevrolet",
+   "modelo": "Opala SS",
+   "anos": "1975 a 1980",
+   "carroceria": "Cupê",
+   "imagem": "imagens/chevrolet-opala-1979.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-opala-1979.png"
+  },
+  {
+   "id": "chevrolet-opala-diplomata-1988",
+   "marca": "Chevrolet",
+   "modelo": "Opala Diplomata",
+   "anos": "1985 a 1992",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-opala-diplomata-1988.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-opala-diplomata-1988.png"
+  },
+  {
+   "id": "chevrolet-chevette-1985",
+   "marca": "Chevrolet",
+   "modelo": "Chevette",
+   "anos": "1983 a 1993",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-chevette-1985.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-chevette-1985.png"
+  },
+  {
+   "id": "chevrolet-monza-1988",
+   "marca": "Chevrolet",
+   "modelo": "Monza",
+   "anos": "1982 a 1996",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-monza-1988.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-monza-1988.png"
+  },
+  {
+   "id": "chevrolet-kadett-1992",
+   "marca": "Chevrolet",
+   "modelo": "Kadett GSi",
+   "anos": "1989 a 1998",
+   "carroceria": "Hatch",
+   "imagem": "imagens/chevrolet-kadett-1992.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-kadett-1992.png"
+  },
+  {
+   "id": "chevrolet-omega-1993",
+   "marca": "Chevrolet",
+   "modelo": "Omega",
+   "anos": "1993 a 1998",
+   "carroceria": "Sedã",
+   "imagem": "imagens/chevrolet-omega-1993.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-omega-1993.png"
+  },
+  {
+   "id": "chevrolet-d20-1990",
+   "marca": "Chevrolet",
+   "modelo": "D20",
+   "anos": "1985 a 1996",
+   "carroceria": "Picape",
+   "imagem": "imagens/chevrolet-d20-1990.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/chevrolet-d20-1990.png"
+  },
+  {
+   "id": "volkswagen-fusca-1975",
+   "marca": "Volkswagen",
+   "modelo": "Fusca",
+   "anos": "1959 a 1996",
+   "carroceria": "Sedã",
+   "imagem": "imagens/volkswagen-fusca-1975.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-fusca-1975.png"
+  },
+  {
+   "id": "volkswagen-brasilia-1977",
+   "marca": "Volkswagen",
+   "modelo": "Brasília",
+   "anos": "1973 a 1982",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-brasilia-1977.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-brasilia-1977.png"
+  },
+  {
+   "id": "volkswagen-kombi-2005",
+   "marca": "Volkswagen",
+   "modelo": "Kombi",
+   "anos": "1976 a 2013",
+   "carroceria": "Van",
+   "imagem": "imagens/volkswagen-kombi-2005.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-kombi-2005.png"
+  },
+  {
+   "id": "volkswagen-gol-quadrado-1990",
+   "marca": "Volkswagen",
+   "modelo": "Gol GTI",
+   "anos": "1987 a 1994",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-gol-quadrado-1990.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-gol-quadrado-1990.png"
+  },
+  {
+   "id": "volkswagen-gol-g2-1996",
+   "marca": "Volkswagen",
+   "modelo": "Gol G2",
+   "anos": "1995 a 1999",
+   "carroceria": "Hatch",
+   "imagem": "imagens/volkswagen-gol-g2-1996.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-gol-g2-1996.png"
+  },
+  {
+   "id": "volkswagen-santana-1995",
+   "marca": "Volkswagen",
+   "modelo": "Santana",
+   "anos": "1991 a 2006",
+   "carroceria": "Sedã",
+   "imagem": "imagens/volkswagen-santana-1995.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-santana-1995.png"
+  },
+  {
+   "id": "volkswagen-parati-1998",
+   "marca": "Volkswagen",
+   "modelo": "Parati",
+   "anos": "1996 a 2012",
+   "carroceria": "Perua",
+   "imagem": "imagens/volkswagen-parati-1998.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-parati-1998.png"
+  },
+  {
+   "id": "volkswagen-saveiro-1998",
+   "marca": "Volkswagen",
+   "modelo": "Saveiro",
+   "anos": "1997 a 2005",
+   "carroceria": "Picape",
+   "imagem": "imagens/volkswagen-saveiro-1998.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/volkswagen-saveiro-1998.png"
+  },
+  {
+   "id": "ford-escort-xr3-1990",
+   "marca": "Ford",
+   "modelo": "Escort XR3",
+   "anos": "1987 a 1992",
+   "carroceria": "Hatch",
+   "imagem": "imagens/ford-escort-xr3-1990.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/ford-escort-xr3-1990.png"
+  },
+  {
+   "id": "ford-maverick-1975",
+   "marca": "Ford",
+   "modelo": "Maverick GT",
+   "anos": "1973 a 1979",
+   "carroceria": "Cupê",
+   "imagem": "imagens/ford-maverick-1975.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/ford-maverick-1975.png"
+  },
+  {
+   "id": "ford-corcel-ii-1980",
+   "marca": "Ford",
+   "modelo": "Corcel II",
+   "anos": "1978 a 1986",
+   "carroceria": "Cupê",
+   "imagem": "imagens/ford-corcel-ii-1980.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/ford-corcel-ii-1980.png"
+  },
+  {
+   "id": "fiat-uno-mille-1995",
+   "marca": "Fiat",
+   "modelo": "Uno Mille",
+   "anos": "1990 a 2013",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-uno-mille-1995.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-uno-mille-1995.png"
+  },
+  {
+   "id": "fiat-147-1980",
+   "marca": "Fiat",
+   "modelo": "147",
+   "anos": "1976 a 1986",
+   "carroceria": "Hatch",
+   "imagem": "imagens/fiat-147-1980.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-147-1980.png"
+  },
+  {
+   "id": "fiat-tempra-1995",
+   "marca": "Fiat",
+   "modelo": "Tempra",
+   "anos": "1992 a 1999",
+   "carroceria": "Sedã",
+   "imagem": "imagens/fiat-tempra-1995.png",
+   "troca_cor": true,
+   "imagem_lado": "imagens/lado/fiat-tempra-1995.png"
   }
  ]
 }
