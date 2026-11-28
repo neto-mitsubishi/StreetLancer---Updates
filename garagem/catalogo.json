@@ -1,5 +1,5 @@
 {
- "versao": 7,
+ "versao": 8,
  "carros": [
   {
    "id": "audi-a3-2014",
@@ -350,6 +350,15 @@
    "anos": "2022 a 2025",
    "carroceria": "Sedã",
    "imagem": "imagens/honda-civic-2022.png",
+   "troca_cor": true
+  },
+  {
+   "id": "honda-civic-g8-rebaixado",
+   "marca": "Honda",
+   "modelo": "Civic G8 Rebaixado",
+   "anos": "2007 a 2011",
+   "carroceria": "Sedã",
+   "imagem": "imagens/honda-civic-g8-rebaixado.png",
    "troca_cor": true
   },
   {
